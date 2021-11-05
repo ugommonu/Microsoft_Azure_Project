@@ -65,7 +65,6 @@ The playbook implements the following tasks:
 - Added ELK VM to Hosts file under a separate Group header (elk)
 - Run Playbook file via ansible-playbook command, therefore pushing tasks to all machines assigned/configured to receive
 
-
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 (Images/docker_ps_output.png)
 <img width="1439" alt="docker_ps_output" src="https://user-images.githubusercontent.com/56059854/140459724-320ac258-d264-436e-aad9-c425cd4b9962.png">
